@@ -1,0 +1,7 @@
+# Remix
+/.cache
+/build
+/public/build
+
+# Testing
+/coverage

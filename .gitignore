@@ -1,0 +1,24 @@
+# Classic
+.vscode/
+.DS_Store
+.idea/
+node_modules
+
+# Remix
+/.cache
+.output
+/public/build
+api/_build
+tsconfig.tsbuildinfo
+
+# Testing
+/coverage
+
+# Tailwind
+app/styles/generated/tailwind.css
+
+# Storybook
+/storybook-static
+
+# Vercel
+.vercel
