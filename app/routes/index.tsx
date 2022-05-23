@@ -25,14 +25,14 @@ export default function Index() {
         <ShowCase />
 
         <Racers
-          picture="/images/racer-2.PNG"
+          picture="/images/racer-2.png"
           name="OLIVER ROWLAND"
           position="Single-seater champion and Formula E race"
           content="As an established and respected single-seater champion and Formula E race winner, the 29-year-old British driver joins the Mahindra Racing outfit for Season 8 of the ABB FIA Formula E World Championship."
         />
 
         <Racers
-          picture="/images/racer-1.PNG"
+          picture="/images/racer-1.png"
           name="ALEXANDER SIMS"
           position="A highly-experienced single-seater and sports car driver"
           content="Sims has been involved in Formula E since the series’ inception in 2014, initially testing cars before securing a race seat in Season Five and once again demonstrated his versatility as a racing driver. His highlights in his first season were a pole position and second-place finish in New York. Sims had an impressive start to his second season, taking pole positions for both races of the opening round in Saudi Arabia and taking his maiden win in race two. It also made him the first driver to take three consecutive pole positions in Formula E."
